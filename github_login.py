@@ -16,6 +16,5 @@ inputpass.send_keys(Password)
 
 
 login = browser.find_element_by_name('commit')
-
 login.submit()
 
